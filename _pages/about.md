@@ -19,14 +19,18 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Experience
 ======
-**Jul 2015 - Aug 2019** **Huawei, Hangzhou, China**
-**Researcher, [Data Intelligence Lab](https://www.huaweicloud.com/lab/data/home.html)**
-**Jul 2015 - Aug 2019** **Tencent, Shenzhen (remote), China**
-**Research Intern,  [Tencent Jarvis Lab](https://jarvislab.tencent.com/)**
-**Jul 2015 - Aug 2019** **Tongji University, Shanghai, China**
-**Ph.D Candidate (with [Prof. Nan Cao](https://nancao.org/) ),  [iDVX Lab](https://idvxlab.com/)**
-**Jul 2016 - Sep 2016** **Zhejiang University, Hangzhou, China**
-**Summer Intern (with [Prof. Yingcai Wu](http://www.ycwu.org/) ),  [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/)**
+**Jul 2015 - Aug 2019**<br>
+**Huawei, Hangzhou, China**<br>
+Researcher, [Data Intelligence Lab](https://www.huaweicloud.com/lab/data/home.html)<br>
+**Jul 2015 - Aug 2019** <br>
+**Tencent, Shenzhen (remote), China**<br>
+Research Intern,  [Tencent Jarvis Lab](https://jarvislab.tencent.com/)<br>
+**Jul 2015 - Aug 2019**<br>
+**Tongji University, Shanghai, China**<br>
+Ph.D Candidate (with [Prof. Nan Cao](https://nancao.org/) ),  [iDVX Lab](https://idvxlab.com/)<br>
+**Jul 2016 - Sep 2016**<br>
+**Zhejiang University, Hangzhou, China**<br>
+Summer Intern (with [Prof. Yingcai Wu](http://www.ycwu.org/) ),  [State Key Lab of CAD&CG](http://www.cad.zju.edu.cn/)
 
 <!-- Awards   
 ====== -->
