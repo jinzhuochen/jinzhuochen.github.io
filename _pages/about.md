@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Zhuochen Jin
+title: "Hi, I'm Zhuochen Jin"
 author_profile: true
 redirect_from: 
   - /about/
